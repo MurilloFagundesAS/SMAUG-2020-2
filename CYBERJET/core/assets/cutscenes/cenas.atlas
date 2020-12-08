@@ -1,0 +1,96 @@
+
+cenas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro0
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro1
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro2
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro3
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro4
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro5
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro6
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+cenas8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roteiro7
+  rotate: false
+  xy: 1, 1
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1

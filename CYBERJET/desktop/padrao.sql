@@ -1,0 +1,5 @@
+INSERT INTO Jogadores VALUES("AAA",10,"0-0-0");
+INSERT INTO Jogadores VALUES("AAA",9,"0-0-0");
+INSERT INTO Jogadores VALUES("AAB",8,"0-0-0");
+INSERT INTO Jogadores VALUES("AAB",7,"0-0-0");
+INSERT INTO Jogadores VALUES("AAB",2,"0-0-0");
