@@ -10,8 +10,6 @@
   
   A fonte utilizada foi baixada gratuitamento do site [Dafont](https://www.dafont.com/pt/).
   
-  Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2020-2).
-
 ## Grupo
 - Daniel Leal,programação, roteiro e documentação
 - Murillo Fagundes, programação, roteiro e documentação
