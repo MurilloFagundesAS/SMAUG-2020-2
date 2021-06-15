@@ -1,6 +1,6 @@
 ### CyberJet (2020)
 
-![CyberJet](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/master/Imagens/CyberJet.jpg)
+![CyberJet](https://github.com/MurilloFagundesAS/MurilloFagundesAS.github.io/blob/main/Imagens/CyberJet.jpg "CyberJet (2020)")
 
   **CyberJet** é um jogo de infinity runner com elementos de shoot'em up desenvolvido para o **Sistema Máximizado de Avaliação Unificada em Games (SMAUG)** no segundo semetre de 2020, solitado no curso de Jogos Digitais da FATEC de Carapicuíba, para a conclusão do semestre acadêmico.
   
